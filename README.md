@@ -1,5 +1,7 @@
 ![Dima's github stats](https://github-readme-stats.vercel.app/api?username=troublediehard)
 
+
+![](https://komarev.com/ghpvc/?username=troublediehard&color=brightgreen)
 <!--
 **troublediehard/troublediehard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

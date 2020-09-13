@@ -1,3 +1,4 @@
+
 ![Dima's github stats](https://github-readme-stats.vercel.app/api?username=troublediehard)
 
 
@@ -16,3 +17,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contacts
+[<img align="left" alt="Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/upwork.svg" />][upwork]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][email]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[upwork]: https://www.upwork.com/freelancers/~019a1afcd3f56e9469
+[email]: mailto:dvportenko@gmail.com
+[youtube]: https://www.youtube.com/channel/UCReKeeIMZywvQoaZPZKzQbQ/
+[linkedin]: https://www.linkedin.com/in/dima-portenko/
+[twitter]: https://twitter.com/troublediehard

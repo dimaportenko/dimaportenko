@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 [email]: mailto:dvportenko@gmail.com
 [youtube]: https://www.youtube.com/channel/UCReKeeIMZywvQoaZPZKzQbQ/
 [linkedin]: https://www.linkedin.com/in/dima-portenko/
-[twitter]: https://twitter.com/troublediehard
+[twitter]: https://twitter.com/dimaportenko
 [stackoverflow]: https://stackoverflow.com/users/923497/dima-portenko

@@ -23,6 +23,12 @@
   </a>
 </div>
 
+### Support me
+
+<a class="" href="/" title="https://ko-fi.com/dimaportenko">
+    <img class="logo-default" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" alt="Ko-fi Logo" style="width:80px;">
+</a>
+
 
 ### Contacts
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

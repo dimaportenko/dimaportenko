@@ -25,7 +25,7 @@
 
 ### Support me
 
-<a class="" href="/" title="https://ko-fi.com/dimaportenko">
+<a class="" href="https://ko-fi.com/dimaportenko" title="https://ko-fi.com/dimaportenko">
     <img class="logo-default" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" alt="Ko-fi Logo" style="width:80px;">
 </a>
 

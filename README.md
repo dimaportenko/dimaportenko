@@ -25,8 +25,8 @@
 
 ### Support me
 
-<a class="" href="https://ko-fi.com/dimaportenko" title="https://ko-fi.com/dimaportenko">
-    <img class="logo-default" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" alt="Ko-fi Logo" style="width:80px;">
+<a class="" href="https://www.paypal.com/donate/?business=QWGY47X8KV866&no_recurring=0&item_name=My+GitHub+and+youtube+profiles%0Ahttps%3A%2F%2Fgithub.com%2Fdimaportenko%0Ahttps%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCReKeeIMZywvQoaZPZKzQbQ%0A%0A&currency_code=USD" title="https://ko-fi.com/dimaportenko">
+    Donate with PayPal
 </a>
 
 

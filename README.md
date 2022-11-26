@@ -37,6 +37,7 @@
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][email]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="DEV Community 👩‍💻👨‍💻" height="22px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />][devto]
 
 
 [upwork]: https://www.upwork.com/freelancers/~019a1afcd3f56e9469
@@ -45,3 +46,4 @@
 [linkedin]: https://www.linkedin.com/in/dima-portenko/
 [twitter]: https://twitter.com/dimaportenko
 [stackoverflow]: https://stackoverflow.com/users/923497/dima-portenko
+[devto]: https://dev.to/dimaportenko

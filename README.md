@@ -1,6 +1,8 @@
 
 ![Dima's github stats](https://github-readme-stats.vercel.app/api?username=dimaportenko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaportenko&count_private=true&layout=compact&langs_count=20&hide=Jupyter%20Notebook)
+
 
 ![](https://komarev.com/ghpvc/?username=dimaportenko&color=brightgreen)
 

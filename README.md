@@ -34,6 +34,7 @@
 
 ### Contacts
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/upwork.svg" />][upwork]
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][email]
@@ -49,3 +50,4 @@
 [twitter]: https://twitter.com/dimaportenko
 [stackoverflow]: https://stackoverflow.com/users/923497/dima-portenko
 [devto]: https://dev.to/dimaportenko
+[twitch]: https://www.twitch.tv/dima_dev

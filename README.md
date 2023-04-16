@@ -23,6 +23,11 @@
   <a align="center" href="https://www.youtube.com/channel/UCReKeeIMZywvQoaZPZKzQbQ">
     <img src="https://img.shields.io/youtube/channel/views/UCReKeeIMZywvQoaZPZKzQbQ" />
   </a>
+   <br/>
+  <a align="center" href="https://www.twitch.tv/dima_dev">
+    <img src="https://img.shields.io/twitch/status/dima_dev?style=social" />
+  </a>
+
 </div>
 
 ### Support me

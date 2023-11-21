@@ -55,4 +55,4 @@
 [twitter]: https://twitter.com/dimaportenko
 [stackoverflow]: https://stackoverflow.com/users/923497/dima-portenko
 [devto]: https://dev.to/dimaportenko
-[twitch]: https://www.twitch.tv/dima_dev
+[twitch]: https://www.twitch.tv/lost_semicolon

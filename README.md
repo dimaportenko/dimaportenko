@@ -46,8 +46,10 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="DEV Community 👩‍💻👨‍💻" height="22px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />][devto]
+[🦋][bsky]
 
 
+[bsky]: https://bsky.app/profile/dimaportenko.bsky.social
 [upwork]: https://www.upwork.com/freelancers/~019a1afcd3f56e9469
 [email]: mailto:dvportenko@gmail.com
 [youtube]: https://www.youtube.com/channel/UCReKeeIMZywvQoaZPZKzQbQ/

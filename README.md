@@ -46,7 +46,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="DEV Community 👩‍💻👨‍💻" height="22px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />][devto]
-[<img align="left" alt="BlueSky" height="22px" filter="brightness(0) invert(1)" src="https://bsky.app/static/favicon-32x32.png" />][bsky]
+[<img align="left" alt="BlueSky" height="22px" src="https://files.svgcdn.io/simple-icons/bluesky.svg" />][bsky]
 
 
 [bsky]: https://bsky.app/profile/dimaportenko.bsky.social
